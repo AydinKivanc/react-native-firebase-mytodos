@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "367596310888",
+    "project_id": "mytodosapp-be45c",
+    "storage_bucket": "mytodosapp-be45c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367596310888:android:e2af7dd1437453c8f386dd",
+        "android_client_info": {
+          "package_name": "com.mytodosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367596310888-80j6nvj0grt7j0hc1u5oi4jer009pgmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytodosfirebase",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "367596310888-stv8j0rn9pmotq52la4ptgunc0i2osk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3S2oN8fY5fXNhjX4hXtg-191sle76O-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367596310888-stv8j0rn9pmotq52la4ptgunc0i2osk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

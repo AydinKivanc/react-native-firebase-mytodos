@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>367596310888-bo7qecl80sbeba0j5pellnsqujpi534u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.367596310888-bo7qecl80sbeba0j5pellnsqujpi534u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>367596310888-80j6nvj0grt7j0hc1u5oi4jer009pgmj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuSuR9leS_iu34yQmFKJQ18qOXF6WZa4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>367596310888</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.myTodosFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>mytodosapp-be45c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mytodosapp-be45c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:367596310888:ios:e3db6cbd6c597436f386dd</string>
+</dict>
+</plist>
